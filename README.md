@@ -1,4 +1,4 @@
-# MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio
+# EXP-9-Develop-a-Simple-Calculator-in-Android-Studio
 
 ## AIM:
 
@@ -277,10 +277,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image](https://github.com/Siddarthan999/MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio/assets/91734840/ebe5fd82-aeae-469a-995d-855b091ec8c2)
-![image](https://github.com/Siddarthan999/MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio/assets/91734840/f0b50fc7-d5e5-4458-9aef-9796100aa6f4)
-![image](https://github.com/Siddarthan999/MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio/assets/91734840/6b8859db-d384-4259-b1e2-7b8251df1d9a)
-![image](https://github.com/Siddarthan999/MAD-EXP-9-Develop-a-Simple-Calculator-in-Android-Studio/assets/91734840/dc5bb770-2d87-4b68-91d3-1dab1621c271)
-
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-9-mad/assets/143045415/3f756e4b-110f-47f6-86f0-029e589f16d1)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-9-mad/assets/143045415/6ec2b1f3-b0e8-47a2-b1fb-e8fc1244b13c)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-9-mad/assets/143045415/2d8a9c15-c736-49c6-bfc2-fa8e04b3f5e3)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-9-mad/assets/143045415/32d36bba-ef95-45bd-9b76-1918b4d47bc5)
 ## RESULT
 Thus, a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
